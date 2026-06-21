@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+body {
+  background: #020617; /* slate-950 */
+  color: #e2e8f0;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}

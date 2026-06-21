@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Downloaded match-results cache (re-fetched fresh on every run)
+/data/
+
+# Node / Next.js
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/next-env.d.ts
+
+# Logs / misc
+*.log
+.DS_Store
