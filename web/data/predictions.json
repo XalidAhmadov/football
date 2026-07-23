@@ -297,9 +297,9 @@
     "title": 5e-05
   },
   {
-    "team": "Czech Republic",
+    "team": "South Korea",
     "group": "A",
-    "elo": 1756,
+    "elo": 1840,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -308,9 +308,9 @@
     "title": 0.0
   },
   {
-    "team": "South Korea",
+    "team": "Czech Republic",
     "group": "A",
-    "elo": 1840,
+    "elo": 1756,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -429,6 +429,17 @@
     "title": 0.0
   },
   {
+    "team": "Uruguay",
+    "group": "H",
+    "elo": 1916,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
+    "final": 0.0,
+    "title": 0.0
+  },
+  {
     "team": "Saudi Arabia",
     "group": "H",
     "elo": 1708,
@@ -447,17 +458,6 @@
     "r16": 0.0302,
     "qf": 0.0077,
     "sf": 0.0007,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
-    "team": "Uruguay",
-    "group": "H",
-    "elo": 1916,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
     "final": 0.0,
     "title": 0.0
   },
@@ -484,17 +484,6 @@
     "title": 0.0
   },
   {
-    "team": "Uzbekistan",
-    "group": "K",
-    "elo": 1732,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "DR Congo",
     "group": "K",
     "elo": 1805,
@@ -503,6 +492,17 @@
     "qf": 0.02635,
     "sf": 0.00615,
     "final": 0.00065,
+    "title": 0.0
+  },
+  {
+    "team": "Uzbekistan",
+    "group": "K",
+    "elo": 1732,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
+    "final": 0.0,
     "title": 0.0
   },
   {
