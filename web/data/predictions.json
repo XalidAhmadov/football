@@ -319,17 +319,6 @@
     "title": 0.0
   },
   {
-    "team": "Qatar",
-    "group": "B",
-    "elo": 1552,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "Bosnia and Herzegovina",
     "group": "B",
     "elo": 1678,
@@ -338,6 +327,17 @@
     "qf": 0.0126,
     "sf": 0.00145,
     "final": 5e-05,
+    "title": 0.0
+  },
+  {
+    "team": "Qatar",
+    "group": "B",
+    "elo": 1552,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
+    "final": 0.0,
     "title": 0.0
   },
   {
@@ -385,17 +385,6 @@
     "title": 0.0
   },
   {
-    "team": "Sweden",
-    "group": "F",
-    "elo": 1800,
-    "qualify": 1.0,
-    "r16": 0.2459,
-    "qf": 0.0522,
-    "sf": 0.0057,
-    "final": 0.00095,
-    "title": 0.0
-  },
-  {
     "team": "Tunisia",
     "group": "F",
     "elo": 1657,
@@ -407,9 +396,20 @@
     "title": 0.0
   },
   {
-    "team": "Iran",
+    "team": "Sweden",
+    "group": "F",
+    "elo": 1800,
+    "qualify": 1.0,
+    "r16": 0.2459,
+    "qf": 0.0522,
+    "sf": 0.0057,
+    "final": 0.00095,
+    "title": 0.0
+  },
+  {
+    "team": "New Zealand",
     "group": "G",
-    "elo": 1884,
+    "elo": 1677,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -418,9 +418,9 @@
     "title": 0.0
   },
   {
-    "team": "New Zealand",
+    "team": "Iran",
     "group": "G",
-    "elo": 1677,
+    "elo": 1884,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
