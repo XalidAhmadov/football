@@ -319,17 +319,6 @@
     "title": 0.0
   },
   {
-    "team": "Qatar",
-    "group": "B",
-    "elo": 1552,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "Bosnia and Herzegovina",
     "group": "B",
     "elo": 1678,
@@ -338,6 +327,17 @@
     "qf": 0.0125,
     "sf": 0.00145,
     "final": 5e-05,
+    "title": 0.0
+  },
+  {
+    "team": "Qatar",
+    "group": "B",
+    "elo": 1552,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
+    "final": 0.0,
     "title": 0.0
   },
   {
@@ -407,9 +407,9 @@
     "title": 0.0
   },
   {
-    "team": "New Zealand",
+    "team": "Iran",
     "group": "G",
-    "elo": 1677,
+    "elo": 1884,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -418,9 +418,9 @@
     "title": 0.0
   },
   {
-    "team": "Iran",
+    "team": "New Zealand",
     "group": "G",
-    "elo": 1884,
+    "elo": 1677,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -506,17 +506,6 @@
     "title": 0.0
   },
   {
-    "team": "Panama",
-    "group": "L",
-    "elo": 1767,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "Ghana",
     "group": "L",
     "elo": 1678,
@@ -525,6 +514,17 @@
     "qf": 0.0167,
     "sf": 0.0009,
     "final": 5e-05,
+    "title": 0.0
+  },
+  {
+    "team": "Panama",
+    "group": "L",
+    "elo": 1767,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
+    "final": 0.0,
     "title": 0.0
   }
 ]
