@@ -297,9 +297,9 @@
     "title": 5e-05
   },
   {
-    "team": "South Korea",
+    "team": "Czech Republic",
     "group": "A",
-    "elo": 1840,
+    "elo": 1756,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -308,9 +308,9 @@
     "title": 0.0
   },
   {
-    "team": "Czech Republic",
+    "team": "South Korea",
     "group": "A",
-    "elo": 1756,
+    "elo": 1840,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -341,9 +341,9 @@
     "title": 0.0
   },
   {
-    "team": "Scotland",
+    "team": "Haiti",
     "group": "C",
-    "elo": 1824,
+    "elo": 1654,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -352,9 +352,9 @@
     "title": 0.0
   },
   {
-    "team": "Haiti",
+    "team": "Scotland",
     "group": "C",
-    "elo": 1654,
+    "elo": 1824,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -407,9 +407,9 @@
     "title": 0.0
   },
   {
-    "team": "Iran",
+    "team": "New Zealand",
     "group": "G",
-    "elo": 1884,
+    "elo": 1677,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -418,9 +418,9 @@
     "title": 0.0
   },
   {
-    "team": "New Zealand",
+    "team": "Iran",
     "group": "G",
-    "elo": 1677,
+    "elo": 1884,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -506,17 +506,6 @@
     "title": 0.0
   },
   {
-    "team": "Ghana",
-    "group": "L",
-    "elo": 1678,
-    "qualify": 1.0,
-    "r16": 0.0861,
-    "qf": 0.0167,
-    "sf": 0.0009,
-    "final": 5e-05,
-    "title": 0.0
-  },
-  {
     "team": "Panama",
     "group": "L",
     "elo": 1767,
@@ -525,6 +514,17 @@
     "qf": 0.0,
     "sf": 0.0,
     "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Ghana",
+    "group": "L",
+    "elo": 1678,
+    "qualify": 1.0,
+    "r16": 0.0861,
+    "qf": 0.0167,
+    "sf": 0.0009,
+    "final": 5e-05,
     "title": 0.0
   }
 ]
