@@ -341,9 +341,9 @@
     "title": 0.0
   },
   {
-    "team": "Scotland",
+    "team": "Haiti",
     "group": "C",
-    "elo": 1824,
+    "elo": 1654,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -352,9 +352,9 @@
     "title": 0.0
   },
   {
-    "team": "Haiti",
+    "team": "Scotland",
     "group": "C",
-    "elo": 1654,
+    "elo": 1824,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -429,9 +429,9 @@
     "title": 0.0
   },
   {
-    "team": "Uruguay",
+    "team": "Saudi Arabia",
     "group": "H",
-    "elo": 1916,
+    "elo": 1708,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -440,9 +440,9 @@
     "title": 0.0
   },
   {
-    "team": "Saudi Arabia",
+    "team": "Uruguay",
     "group": "H",
-    "elo": 1708,
+    "elo": 1916,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
