@@ -308,9 +308,9 @@
     "title": 5e-05
   },
   {
-    "team": "South Korea",
+    "team": "Czech Republic",
     "group": "A",
-    "elo": 1848,
+    "elo": 1732,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -319,9 +319,9 @@
     "title": 0.0
   },
   {
-    "team": "Czech Republic",
+    "team": "South Korea",
     "group": "A",
-    "elo": 1732,
+    "elo": 1848,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -341,9 +341,9 @@
     "title": 0.0
   },
   {
-    "team": "Scotland",
+    "team": "Haiti",
     "group": "C",
-    "elo": 1793,
+    "elo": 1698,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -352,9 +352,9 @@
     "title": 0.0
   },
   {
-    "team": "Haiti",
+    "team": "Scotland",
     "group": "C",
-    "elo": 1698,
+    "elo": 1793,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -429,17 +429,6 @@
     "title": 0.0
   },
   {
-    "team": "Cape Verde",
-    "group": "H",
-    "elo": 1637,
-    "qualify": 1.0,
-    "r16": 0.01955,
-    "qf": 0.0041,
-    "sf": 0.00035,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "Saudi Arabia",
     "group": "H",
     "elo": 1749,
@@ -447,6 +436,17 @@
     "r16": 0.0,
     "qf": 0.0,
     "sf": 0.0,
+    "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Cape Verde",
+    "group": "H",
+    "elo": 1637,
+    "qualify": 1.0,
+    "r16": 0.01955,
+    "qf": 0.0041,
+    "sf": 0.00035,
     "final": 0.0,
     "title": 0.0
   },
