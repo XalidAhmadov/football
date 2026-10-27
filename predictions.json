@@ -308,9 +308,9 @@
     "title": 5e-05
   },
   {
-    "team": "South Korea",
+    "team": "Czech Republic",
     "group": "A",
-    "elo": 1848,
+    "elo": 1732,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -319,9 +319,9 @@
     "title": 0.0
   },
   {
-    "team": "Czech Republic",
+    "team": "South Korea",
     "group": "A",
-    "elo": 1732,
+    "elo": 1848,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -341,9 +341,9 @@
     "title": 0.0
   },
   {
-    "team": "Haiti",
+    "team": "Scotland",
     "group": "C",
-    "elo": 1698,
+    "elo": 1793,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -352,9 +352,9 @@
     "title": 0.0
   },
   {
-    "team": "Scotland",
+    "team": "Haiti",
     "group": "C",
-    "elo": 1793,
+    "elo": 1698,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -429,9 +429,9 @@
     "title": 0.0
   },
   {
-    "team": "Uruguay",
+    "team": "Saudi Arabia",
     "group": "H",
-    "elo": 1936,
+    "elo": 1749,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -440,9 +440,9 @@
     "title": 0.0
   },
   {
-    "team": "Saudi Arabia",
+    "team": "Uruguay",
     "group": "H",
-    "elo": 1749,
+    "elo": 1936,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -484,17 +484,6 @@
     "title": 0.0
   },
   {
-    "team": "DR Congo",
-    "group": "K",
-    "elo": 1787,
-    "qualify": 1.0,
-    "r16": 0.0744,
-    "qf": 0.02295,
-    "sf": 0.00485,
-    "final": 0.0004,
-    "title": 0.0
-  },
-  {
     "team": "Uzbekistan",
     "group": "K",
     "elo": 1751,
@@ -506,14 +495,14 @@
     "title": 0.0
   },
   {
-    "team": "Panama",
-    "group": "L",
-    "elo": 1763,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
+    "team": "DR Congo",
+    "group": "K",
+    "elo": 1787,
+    "qualify": 1.0,
+    "r16": 0.0744,
+    "qf": 0.02295,
+    "sf": 0.00485,
+    "final": 0.0004,
     "title": 0.0
   },
   {
@@ -524,6 +513,17 @@
     "r16": 0.06295,
     "qf": 0.00775,
     "sf": 0.00025,
+    "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Panama",
+    "group": "L",
+    "elo": 1763,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
     "final": 0.0,
     "title": 0.0
   }
