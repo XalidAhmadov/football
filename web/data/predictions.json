@@ -407,9 +407,9 @@
     "title": 0.0
   },
   {
-    "team": "Iran",
+    "team": "New Zealand",
     "group": "G",
-    "elo": 1859,
+    "elo": 1688,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -418,9 +418,9 @@
     "title": 0.0
   },
   {
-    "team": "New Zealand",
+    "team": "Iran",
     "group": "G",
-    "elo": 1688,
+    "elo": 1859,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -484,17 +484,6 @@
     "title": 0.0
   },
   {
-    "team": "DR Congo",
-    "group": "K",
-    "elo": 1787,
-    "qualify": 1.0,
-    "r16": 0.0744,
-    "qf": 0.02295,
-    "sf": 0.00485,
-    "final": 0.0004,
-    "title": 0.0
-  },
-  {
     "team": "Uzbekistan",
     "group": "K",
     "elo": 1751,
@@ -503,6 +492,17 @@
     "qf": 0.0,
     "sf": 0.0,
     "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "DR Congo",
+    "group": "K",
+    "elo": 1787,
+    "qualify": 1.0,
+    "r16": 0.0744,
+    "qf": 0.02295,
+    "sf": 0.00485,
+    "final": 0.0004,
     "title": 0.0
   },
   {
