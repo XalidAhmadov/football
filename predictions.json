@@ -385,17 +385,6 @@
     "title": 0.0
   },
   {
-    "team": "Sweden",
-    "group": "F",
-    "elo": 1842,
-    "qualify": 1.0,
-    "r16": 0.24195,
-    "qf": 0.0605,
-    "sf": 0.00765,
-    "final": 0.00135,
-    "title": 0.0
-  },
-  {
     "team": "Tunisia",
     "group": "F",
     "elo": 1632,
@@ -404,6 +393,17 @@
     "qf": 0.0,
     "sf": 0.0,
     "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Sweden",
+    "group": "F",
+    "elo": 1842,
+    "qualify": 1.0,
+    "r16": 0.24195,
+    "qf": 0.0605,
+    "sf": 0.00765,
+    "final": 0.00135,
     "title": 0.0
   },
   {
@@ -425,6 +425,17 @@
     "r16": 0.0,
     "qf": 0.0,
     "sf": 0.0,
+    "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Cape Verde",
+    "group": "H",
+    "elo": 1637,
+    "qualify": 1.0,
+    "r16": 0.01955,
+    "qf": 0.0041,
+    "sf": 0.00035,
     "final": 0.0,
     "title": 0.0
   },
@@ -451,17 +462,6 @@
     "title": 0.0
   },
   {
-    "team": "Cape Verde",
-    "group": "H",
-    "elo": 1637,
-    "qualify": 1.0,
-    "r16": 0.01955,
-    "qf": 0.0041,
-    "sf": 0.00035,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "Iraq",
     "group": "I",
     "elo": 1661,
@@ -484,17 +484,6 @@
     "title": 0.0
   },
   {
-    "team": "Uzbekistan",
-    "group": "K",
-    "elo": 1751,
-    "qualify": 0.0,
-    "r16": 0.0,
-    "qf": 0.0,
-    "sf": 0.0,
-    "final": 0.0,
-    "title": 0.0
-  },
-  {
     "team": "DR Congo",
     "group": "K",
     "elo": 1787,
@@ -506,13 +495,13 @@
     "title": 0.0
   },
   {
-    "team": "Ghana",
-    "group": "L",
-    "elo": 1620,
-    "qualify": 1.0,
-    "r16": 0.06295,
-    "qf": 0.00775,
-    "sf": 0.00025,
+    "team": "Uzbekistan",
+    "group": "K",
+    "elo": 1751,
+    "qualify": 0.0,
+    "r16": 0.0,
+    "qf": 0.0,
+    "sf": 0.0,
     "final": 0.0,
     "title": 0.0
   },
@@ -524,6 +513,17 @@
     "r16": 0.0,
     "qf": 0.0,
     "sf": 0.0,
+    "final": 0.0,
+    "title": 0.0
+  },
+  {
+    "team": "Ghana",
+    "group": "L",
+    "elo": 1620,
+    "qualify": 1.0,
+    "r16": 0.06295,
+    "qf": 0.00775,
+    "sf": 0.00025,
     "final": 0.0,
     "title": 0.0
   }
