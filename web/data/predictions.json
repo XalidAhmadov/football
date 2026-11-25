@@ -308,9 +308,9 @@
     "title": 5e-05
   },
   {
-    "team": "South Korea",
+    "team": "Czech Republic",
     "group": "A",
-    "elo": 1840,
+    "elo": 1720,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -319,9 +319,9 @@
     "title": 0.0
   },
   {
-    "team": "Czech Republic",
+    "team": "South Korea",
     "group": "A",
-    "elo": 1720,
+    "elo": 1840,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -341,9 +341,9 @@
     "title": 0.0
   },
   {
-    "team": "Scotland",
+    "team": "Haiti",
     "group": "C",
-    "elo": 1788,
+    "elo": 1675,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -352,9 +352,9 @@
     "title": 0.0
   },
   {
-    "team": "Haiti",
+    "team": "Scotland",
     "group": "C",
-    "elo": 1675,
+    "elo": 1788,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -407,9 +407,9 @@
     "title": 0.0
   },
   {
-    "team": "Iran",
+    "team": "New Zealand",
     "group": "G",
-    "elo": 1863,
+    "elo": 1693,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
@@ -418,9 +418,9 @@
     "title": 0.0
   },
   {
-    "team": "New Zealand",
+    "team": "Iran",
     "group": "G",
-    "elo": 1693,
+    "elo": 1863,
     "qualify": 0.0,
     "r16": 0.0,
     "qf": 0.0,
